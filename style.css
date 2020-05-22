@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+section {
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    width: 85%;
+    margin: left;
+}
+
+header {
+    background: lightgrey;
+    color: black;
+    margin-left: 20px;
+    text-align: left;
+    position: relative;
+    width: 200px;
+    height: 40px;
+}
+
+.bar_nav {
+    background-color: cadetblue;
+    padding: 10px;
+    text-align: left;
+}
+
+header,
+section,
+article,
+footer,
+aside {
+    display: block;
+}
+
+.bar_nav li {
+    list-style: none;
+    padding: 5px;
+    font-family: 25px Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    margin: left;
+}
+
+.div_father {
+    background-color: cornsilk;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    margin-bottom: 100px;
+    width: 80%;
+}
+
+.class_bloque_one {
+    padding: 5px;
+    margin: 5px;
+    text-align: justify;
+}
+
+p,
+h,
+li {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+#section_one {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
